@@ -1,0 +1,26 @@
+## CONTENTS
+
+- Statistics
+    -> Hoffmann
+
+- Calculus/ Pre-calc
+    -> Stewart
+
+- Linear Algebra
+    -> Boldrini
+
+- Econometrics
+    -> Gujarati
+    -> Bueno
+    -> Pindyck
+    -> Wooldridge
+    -> Enders
+
+
+## STUDY PLAN
+
+# PART 1: PRE_REQUISITES
+
+# PART 2: ECONOMETRICS I
+
+# PART 3: ECONOMETRICS II
